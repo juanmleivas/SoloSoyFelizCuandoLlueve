@@ -1,6 +1,6 @@
 ### 📥 Descargar
 
-[Descargar SoloSoyFelizCuandoLlueve](https://github.com/tuusuario/tu-repositorio/releases/latest)
+[Descargar SoloSoyFelizCuandoLlueve](https://github.com/juanmleivas/SoloSoyFelizCuandoLlueve/releases/latest)
 
 
 # Solo Soy Feliz Cuando Llueve 🌧️
