@@ -1,5 +1,6 @@
 # Solo Soy Feliz Cuando Llueve 🌧️
 Es una aplicación de escritorio que obtiene datos meteorológicos en tiempo real y los guarda en un archivo HTML con un formato compatible con Salamandra, el software de automatización radial.
+
 📌 Características
 
     Obtiene datos meteorológicos de cualquier ciudad soportada por OpenWeatherMap.
