@@ -10,18 +10,20 @@ Es una aplicación de escritorio que obtiene datos meteorológicos en tiempo rea
 📥 Instalación y uso
 
     Descargar y extraer
-        Descarga el archivo .rar y extráelo en una carpeta de tu elección.
+        Descarga el archivo .zip y extráelo en una carpeta de tu elección.
 
-    Crear la carpeta de datos
-        Antes de ejecutar el programa, crea la carpeta C:\Datos_Meteo.
-        Aquí se guardará el archivo datos.html con los datos meteorológicos.
+    Creación del archivo datos.html
+        Al ejecutar el programa, se creará el archivo datos.html en la carpeta donde se ejecute el programa.
+        El archivo datos.html es quien guarda los datos meteorológicos de temperatura y humedad para que sean leídos por Salamandra.
 
     Ejecutar la aplicación
         Abre el archivo Solo_Soy_Feliz_Cuando_Llueve.exe.
+        Selecciona el idioma de tu preferencia: Castellano, Inglés, Portugués o Francés.
         Selecciona un país en el primer menú desplegable.
         Elige una ciudad del segundo menú.
-        La aplicación mostrará en pantalla la temperatura y humedad de la ciudad seleccionada.
-        Los datos se guardarán automáticamente en C:\Datos_Meteo\datos.html cada 5 minutos.
+        La aplicación mostrará en pantalla la temperatura, humedad, presión de la ciudad seleccionada.
+        Los datos se guardarán automáticamente en datos.html cada cierto tiempo.
+        El tiempo de actualización estará determinado por lo elegido en el menú "Actualizar Cada"..."minutos".
 
 ⚠️ Nota importante
 
@@ -31,8 +33,8 @@ Si esto ocurre, desactiva temporalmente el antivirus antes de ejecutar el progra
 💡 Información adicional
 
     El programa comienza con Uruguay > Salto como selección predeterminada.
-    Los datos meteorológicos se actualizan automáticamente cada 5 minutos.
-    Si Salamandra no muestra los datos, verifica que el archivo datos.html se esté generando correctamente en C:\Datos_Meteo.
+    Los datos meteorológicos se actualizan automáticamente cada 5 minutos de manera predeterminada.
+    Si Salamandra no muestra los datos, verifica que el archivo datos.html se esté generando correctamente en la carpeta donde ejecutes el programa.
 
 📜 Licencia
 
